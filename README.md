@@ -60,7 +60,7 @@ The calculated BPM is displayed on the Blynk cloud dashboard. Alert notification
 
 # 📄 Project Report
 Complete mini-project report available here:
-[Download Report](FINAL BPM_REPORT.pdf)
+[Download Report](FINAL_BPM_REPORT.pdf)
 
 
 # 💻 Technologies Used
