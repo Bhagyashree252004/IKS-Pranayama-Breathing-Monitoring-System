@@ -58,6 +58,11 @@ The calculated BPM is displayed on the Blynk cloud dashboard. Alert notification
 ![Circuit Diagram](circuit_diagram.jpeg)
 
 
+# 📄 Project Report
+Complete mini-project report available here:
+[Download Report](FINAL BPM_REPORT.pdf)
+
+
 # 💻 Technologies Used
 - Embedded Systems
 - ESP32
