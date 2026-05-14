@@ -31,7 +31,7 @@ The calculated BPM is displayed on the Blynk cloud dashboard. Alert notification
 # 📷 Project Demonstration
 
 ## Main Project Demo
-![Main Project Demo](main_project_demo.jpeg)
+![Main Project Demo](main_ project_demo.jpeg).
 
 
 ## Working Demonstration
